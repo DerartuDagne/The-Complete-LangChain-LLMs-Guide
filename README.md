@@ -1,3 +1,4 @@
 # The-Complete-LangChain-LLMs-Guide
 The Complete LangChain &amp; LLMs Guide, by Packt Publishing
-file:///Users/derartudagne./Documents/LangChain%20&%20LLMs%20Guide%20Badges.jpg
+
+![LangChain   LLMs Guide Badges](https://github.com/user-attachments/assets/ca9f755c-2180-419a-aadd-79a50be7ce81)
